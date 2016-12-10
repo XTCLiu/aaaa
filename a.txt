@@ -1,5 +1,9 @@
 a=a
 give me a five
 test
+<<<<<<< HEAD
 3
 b
+=======
+new
+>>>>>>> master
